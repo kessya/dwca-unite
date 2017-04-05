@@ -5,7 +5,7 @@
          xml:lang="en">
 
 <dataset>
-  <title xml:lang="en">UNITE - User-friendly Nordic ITS Ectomycorrhiza Database</title>
+  <title xml:lang="en">UNITE - Unified system for the DNA based fungal species linked to the classification</title>
 <creator>
         <organizationName>University of Tartu</organizationName>
     <electronicMailAddress>info@plutof.ut.ee</electronicMailAddress>
@@ -24,7 +24,7 @@
 <language>en</language>
 <abstract>
   <para>
-UNITE is a rDNA sequence database designed to provide a stable and reliable platform for sequence-borne identification of ectomycorrhizal asco- and basidiomycetes. It has many of the characteristics of other sequence databases, but one of the things that sets UNITE apart from these is sequence reliability. We aim at including only high-quality sequences of well identified fungi, hence initially sacrifying quantity for quality. The sequences are primarily generated from fruiting-bodies collected and identified by specialists; the fruiting-bodies are deposited in public herbaria and type specimens are used whenever possible. Sequences generated from cultures and from soil- or root samples are however also accepted to enable ecological surveys and comparisons. The database initially holds sequences from the ITS region. This highly variable locus has proved a valuable information source when it comes to species identification. We aim to cover more loci in the future.	  
+    UNITE is a rDNA sequence database designed to provide a stable and reliable platform for sequence-borne identification of all fungal species. UNITE provides a unified way for delimiting, identifying, communicating, and working with DNA-based Species Hypotheses (SH). All fungal ITS sequences in the International Nucleotide Sequence Databases (INSD: GenBank, ENA, DDBJ) are clustered to approximately the species level by applying a set of dynamic distance values (&lt;0.5 - 3.0%). All species hypotheses are given a unique, stable name in the form of a DOI, and their taxonomic and ecological annotations are verified through distributed, web-based third-party annotation efforts. SHs are connected to a taxon name and its classification as far as possible (phylum, class, order, etc.) by taking into account identifications for all sequences in the SH. An automatically or manually designated sequence is chosen to represent each such SH. These sequences are released (https://unite.ut.ee/repository.php) for use by the scientific community in, for example, local sequence similarity searches and next-generation sequencing analysis pipelines. The system and the data are updated automatically as the number of public fungal ITS sequences grows.
   </para>
 </abstract>
 <keywordSet>
@@ -34,13 +34,13 @@ UNITE is a rDNA sequence database designed to provide a stable and reliable plat
     <keywordThesaurus>GBIF</keywordThesaurus>
 </keywordSet>
 <intellectualRights>
-	<para>
-	This work is licensed under a
-	<ulink url="http://creativecommons.org/licenses/by/4.0/legalcode">
-	<citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle>
-	</ulink>
-	.
-	</para>
+  <para>
+  This work is licensed under a
+  <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode">
+  <citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle>
+  </ulink>
+  .
+  </para>
 </intellectualRights>
   <distribution scope="document">
     <online>
